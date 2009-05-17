@@ -1,0 +1,12 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/"
+                       xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+<ShortName>The Pragmatic Bookshelf</ShortName>
+<Description>Search books, articles, and more...</Description>
+<InputEncoding>UTF-8</InputEncoding>
+<Image width="16" height="16">data:image/x-icon;base64,AAABAAEAEBAAAAAAGABoAwAAFgAAACgAAAAQAAAAIAAAAAEAGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC4ubsxMTMrKywrKywrKywrKywrKywrKywrKywrKywrKywrKywrKywrKywxMTO4ubsxMTMrKywrKywrKywrKywrKywrKywrKywrKywrKywrKywrKywrKywrKywrKywxMTMrKywrKywrKywrKywrKywrKyxSY26Z3/mZ3/mZ3/krKywrKywrKywrKywrKywrKywrKywrKywrKywrKywrKywrKywrKyxLWWKEt8wrKywrKywrKywrKywrKywrKywrKywrKywrKywrKywrKywrKywrKywrKyxLWWKEt8wrKywrKywrKywrKywrKywrKywrKywrKywrKywrKywrKywrKywrKywrKyxLWWKZ3/mZ3/mZ3/mZ3/l6pbg1ODsrKywrKywrKywrKywrKyxSY26Z3/mZ3/mZ3/lLWWKEt8wrKywrKywwMjN6pbiEt8wrKywrKywrKywrKywrKywrKyxLWWKEt8wrKyxLWWKEt8wrKywrKywrKyw/R02Z3/k1ODsrKywrKywrKywrKywrKyxLWWKEt8wrKyxLWWKEt8wrKywrKywwMjN6pbiEt8wrKywrKywrKywrKywrKywrKyxLWWKZ3/mZ3/mZ3/mZ3/mZ3/mZ3/mZ3/l6pbg6P0MrKywrKywrKywrKywrKywrKyxLWWKEt8wrKywrKywwMjN6pbiEt8wrKywrKywrKywrKywrKywrKywrKywrKywrKyxLWWKEt8wrKywrKywrKyw/R02Z3/k1ODsrKywrKywrKywrKywrKywrKywrKywrKyxLWWKEt8wrKywrKywwMjN6pbiEt8wrKywrKywrKywrKywrKywrKywrKywrKyxSY26Z3/mZ3/mZ3/mZ3/mZ3/l6pbg6P0MrKywrKywrKywrKywrKywxMTMrKywrKywrKywrKywrKywrKywrKywrKywrKywrKywrKywrKywrKywrKywxMTO4ubsxMTMrKywrKywrKywrKywrKywrKywrKywrKywrKywrKywrKywrKywxMTO4ubsAAACAAAD//wAAnOgAAP//AAD//wAA//8AAP//AAD//wAA//8AAP//AAD//wAA//8AAP//AAD//wAAk+gAAKvp</Image>
+<Url type="text/html" method="POST" template="http://www.pragprog.com/search">
+  <Param name="q" value="{searchTerms}"/>
+</Url>
+<moz:SearchForm>http://www.pragprog.com/</moz:SearchForm>
+</OpenSearchDescription>
+
